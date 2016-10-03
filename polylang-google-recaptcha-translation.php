@@ -1,3 +1,5 @@
+<?php  // <~ do not copy the opening php tag
+
 //* Translate Google Recaptcha
 add_action( 'wpcf7_enqueue_scripts', 'custom_recaptcha_enqueue_scripts', 11 );
 
